@@ -53,7 +53,7 @@
 
 ## 📫 Como me encontrar
 - 💼 [LinkedIn](https://linkedin.com/in/giovani-feitosa)  
-- 📧 Email: **seuemail@gmail.com**  
+- 📧 Email: **giovanifeitosa@gmail.com**  
 
 
 -->
