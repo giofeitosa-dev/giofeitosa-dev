@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Giovani Feitosa</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Full Stack | 🌱 Aprendizado Contínuo | 💻 Apaixonado por tecnologia
+  🚀 Desenvolvedor Full Stack | 🌱 Aprendizado Contínuo 
 </p>
 
 ---
@@ -20,25 +20,59 @@
 ## 🚀 Tecnologias e Ferramentas
 
 **Frontend**
+<div>
+  
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+          
+</div>
 - React.js | Vite | JavaScript (ES6+) | HTML5 | CSS3 | Bootstrap | TailwindCSS  
 
 **Backend**
+
+<div>
+  
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+</div>
 - Java | Spring Boot | Spring Security | JWT | Node.js (básico)
 
 **Banco de Dados**
+
+<div>
+  
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+</div>
 - MySQL | MongoDB (básico)  
 
 **Outros**
+
+<div>
+  
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+</div>
 - Git & GitHub | Docker (básico) | REST APIs | Agile/Scrum
 
 ---
 
 ## 📂 Projetos em Destaque
 
-🔹 [📝 TaskFlow](https://github.com/usuario/taskflow) – To-do List fullstack com React + Spring Boot  
+🔹 [📝 TaskFlow][(https://github.com/giofeitosa-dev/lista-tarefas)] – To-do List com Spring Boot  
  
 
-👉 Veja mais no meu [Portfólio Online](https://github.com/usuario/portfolio)
+/*👉 Veja mais no meu [Portfólio Online](https://github.com/usuario/portfolio)*/
 
 ---
 
