@@ -66,7 +66,7 @@
 
 ## 📂 Projetos em Destaque
 
-🔹 [📝 TaskFlow][(https://github.com/giofeitosa-dev/lista-tarefas)] – To-do List com Spring Boot  
+🔹 [📝 TaskFlow](https://github.com/giofeitosa-dev/lista-tarefas) – To-do List com Spring Boot  
  
 
 /*👉 Veja mais no meu [Portfólio Online](https://github.com/usuario/portfolio)*/
