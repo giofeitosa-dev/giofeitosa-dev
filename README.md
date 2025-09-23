@@ -69,7 +69,6 @@
 🔹 [📝 TaskFlow](https://github.com/giofeitosa-dev/lista-tarefas) – To-do List com Spring Boot  
  
 
-/*👉 Veja mais no meu [Portfólio Online](https://github.com/usuario/portfolio)*/
 
 ---
 
@@ -80,10 +79,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giofeitosa-dev&layout=compact&theme=radical" height="150"/>
 </p>
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](https://linkedin.com/in/giovani-feitosa)  
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovani-feitosa)  
 - 📧 Email: **giovanifeitosa@gmail.com**  
 
 
