@@ -76,7 +76,7 @@
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=giofeitosa-dev&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=giofeitosa-dev&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <sub>⚡ Snake animada das contribuições (requer <a href="https://github.com/Platane/snk">GitHub Action</a>)</sub>
+  <sub>⚡ Snake animada das contribuições — vá em <b>Actions → Gerar Snake → Run workflow</b> para ativar</sub>
 </p>
 
 ---
@@ -98,11 +98,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giofeitosa-dev&show_icons=true&theme=radical&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giofeitosa-dev&layout=compact&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giofeitosa-dev&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=giofeitosa-dev&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=giofeitosa-dev&label=Visitantes&color=7B1E7A&icon=5" alt="Visitor Counter" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=giofeitosa-dev.giofeitosa-dev&label=Visitantes&countColor=%237B1E7A" alt="Visitor Counter" />
 </p>
 
 ---
