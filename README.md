@@ -96,8 +96,9 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giofeitosa-dev&show_icons=true&theme=radical&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giofeitosa-dev&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giofeitosa-dev&theme=radical" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giofeitosa-dev&theme=radical" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giofeitosa-dev&theme=radical" height="160"/>
   <img src="https://streak-stats.demolab.com/?user=giofeitosa-dev&theme=radical" height="160"/>
 </p>
 
