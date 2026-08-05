@@ -105,8 +105,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giofeitosa-dev&theme=radical&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giofeitosa-dev&theme=radical&layout=compact" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=giofeitosa-dev&theme=radical&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giofeitosa-dev&theme=radical&layout=compact" height="160"/>
   <img src="https://streak-stats.demolab.com/?user=giofeitosa-dev&theme=radical" height="160"/>
 </p>
 
