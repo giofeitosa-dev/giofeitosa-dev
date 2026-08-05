@@ -1,7 +1,13 @@
 <h1 align="center">👋 Olá, eu sou o Giovani Feitosa</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Full Stack | 🌱 Aprendizado Contínuo
+  🚀 Desenvolvedor Full-Stack Java + React | 🌱 Aprendizado Contínuo
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/giovani-feitosa/">
+    <img src="https://img.shields.io/badge/OPEN_TO_WORK-Ativo_buscando_oportunidades-brightgreen?style=for-the-badge" alt="Open to Work" />
+  </a>
 </p>
 
 ---
@@ -10,7 +16,7 @@
 - 🎓 Formado pelo programa **Recode Pro** em **Desenvolvimento Full Stack**
 - 💡 Experiência com **Java Spring Boot, React.js e MySQL**
 - 🌍 Interesse em **aplicações web escaláveis e seguras**
-- 📌 Aberto a oportunidades como **Desenvolvedor Full Stack / Backend / Frontend**
+- 📌 Aberto a oportunidades como **Desenvolvedor Full-Stack Java + React / Backend / Frontend**
 
 ---
 
@@ -59,6 +65,9 @@
 
 ## 📂 Projetos em Destaque
 
+🔹 **📊 DataVision** – Dashboard agregando 3 APIs públicas (clima, câmbio e filmes) · Spring Boot 4/Java 21 + React + Recharts  
+   → [Repositório](https://github.com/giofeitosa-dev/data-vision)
+
 🔹 **📝 TaskFlow** – To-do List com Spring Boot + React + JWT + PostgreSQL  
    → [Repositório](https://github.com/giofeitosa-dev/lista-tarefas) · [Demo](https://lista-tarefas-nine-sigma.vercel.app)
 
@@ -96,9 +105,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giofeitosa-dev&theme=radical" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giofeitosa-dev&theme=radical" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giofeitosa-dev&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=giofeitosa-dev&theme=radical&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giofeitosa-dev&theme=radical&layout=compact" height="160"/>
   <img src="https://streak-stats.demolab.com/?user=giofeitosa-dev&theme=radical" height="160"/>
 </p>
 
