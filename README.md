@@ -66,22 +66,6 @@
 🔹 **🧑‍💻 giofeitosa-dev** – Este perfil README
 → [Repositório](https://github.com/giofeitosa-dev/giofeitosa-dev)
 
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=giofeitosa-dev&theme=radical" alt="GitHub Trophies" />
-</p>
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/giofeitosa-dev/giofeitosa-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-</p>
-
-<p align="center">
-  <sub>⚡ Atualize a snake em <b>Actions → Gerar Snake → Run workflow</b></sub>
-</p>
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
